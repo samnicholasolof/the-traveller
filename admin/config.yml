@@ -2,7 +2,7 @@
 # Change the repo line below to your own GitHub username and repository name.
 backend:
   name: github
-  repo: YOUR-GITHUB-USERNAME/the-traveller
+  repo: samnicholasolof/the-traveller
   branch: main
 
 site_url: https://traveller.cupboardofshame.com
