@@ -1,0 +1,213 @@
+{
+  "acts": [
+    {
+      "title": "Act I: The journey begins",
+      "intro": "Limping toward the edge of known space with a handful of companions.",
+      "entries": [
+        {
+          "label": "Episode 1",
+          "title": "Husk: The Tomb World",
+          "status": "told",
+          "body": "Husk was once Acrynax, a shrine world where pilgrims came to honour a great statue and the relic at its feet. When the Empire’s grip weakened and its enemies moved in, the Empire bombed it with plague from orbit and declared it a tomb.\n\nIt was neither quiet nor empty. The crew were greeted by a tolling bell and the parishioners of the Church of the Undying. The mystic Faust-X, half man and half machine, gave himself up so the others could escape. He had believed The Traveller might be one of the galaxy’s few true perpetuals. The Undying took him, and offered him a pact. A relic was recovered.",
+          "tales": [
+            {
+              "who": "",
+              "text": "Blood pouring from his ears, Crow watched the death world slowly disappear. “We need to go back.”\n\n“We all saw what path he chose,” said the priest."
+            }
+          ],
+          "chips": [
+            "The Traveller",
+            "Crow",
+            "Gwyedd the priest",
+            "Faust-X (lost)"
+          ],
+          "photo": "",
+          "image": "",
+          "caption": ""
+        },
+        {
+          "label": "Episode 2",
+          "title": "The Wilds of Brawn",
+          "status": "told",
+          "body": "Without their psychic navigator, the crew limped on at sub-light speed for weeks, low on supplies, morale and parts. In range was an abandoned listening post on a feral world the trader maps called Brawn. “Our way forward is now clear,” said The Traveller. “The gauntlet speaks to me. We head to Brawn.” The Herald was waiting there.",
+          "tales": [
+            {
+              "who": "The Crow’s tale",
+              "text": "Parry, brace, parry, brace, parry, feint, parry… Two beasts came crashing through the jungle, and then a blur of the utmost violence, and nothing."
+            },
+            {
+              "who": "The Priest’s tale",
+              "text": "Gwyedd steps through the portal and feels the wound open, each point of the star its own shame. He reeks of failure. He stinks of heresy."
+            },
+            {
+              "who": "The Seer’s tale",
+              "text": "The Starborn had come. The Herald appeased. Neoma did witness. Neoma will follow. Neoma will guide."
+            },
+            {
+              "who": "The Barbarian",
+              "text": "Kneeling before the Herald, his wounds full of flies, Monos felt something he had never felt before: warmth."
+            }
+          ],
+          "chips": [],
+          "photo": "",
+          "image": "",
+          "caption": ""
+        },
+        {
+          "label": "Interlude",
+          "title": "Waypoint",
+          "status": "coming",
+          "body": "The crew’s stop at the trading station is still untold.",
+          "tales": [],
+          "chips": [],
+          "photo": "",
+          "image": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Act II: Death Between the Stars",
+      "intro": "The first convergence of the story, played as a narrative event day at the Salford Lads and Lasses Club in Manchester on 21 February 2026, for charity.",
+      "entries": [
+        {
+          "label": "Episode 3",
+          "title": "The first expedition to the Blasphemous Voyager",
+          "status": "told",
+          "body": "Repalda, the one-armed swordswoman, and Graxxx, the ab-human veteran, followed The Traveller aboard the derelict. They raided the old Black Guard facility on the eastern nacelle. Somebody was listening.",
+          "tales": [
+            {
+              "who": "Transmission, Delta-class encryption",
+              "text": "Attention all active operatives. Feeds hacked from the Blasphemous Voyager by in-system tech-cult savants. Boarding party raid on the former Black Guard facility, eastern nacelle. Level 9 psychic disturbance detected. Entity known as The Traveller confirmed in Arc segment. All active personnel proceed immediately for interception."
+            }
+          ],
+          "chips": [],
+          "photo": "t7",
+          "image": "",
+          "caption": "Aboard the Voyager: Repalda and The Traveller among the crew."
+        },
+        {
+          "label": "Episode 4",
+          "title": "The Cyclix Quadrant",
+          "status": "told",
+          "body": "The Voyager breached from deep space, and rumours of priceless artefacts drew fortune-seekers from across the Cyclix Quadrant, the sweep of worlds some call the Arc, the Angel’s Wing or the Scythe. Its arrival threw the dark paths between the stars into chaos. One more rumour persisted: a giant in ancient armour had appeared alongside it. Coincidence, or the hand of fate?",
+          "tales": [],
+          "chips": [
+            "Arch",
+            "Dust",
+            "Harvest",
+            "Winter",
+            "Waypoint"
+          ],
+          "photo": "p_preacher",
+          "image": "",
+          "caption": "On Harvest."
+        },
+        {
+          "label": "Episode 5",
+          "title": "The Blasphemous Voyager: Finale",
+          "status": "told",
+          "body": "Every thread of the day converged back aboard the Voyager. In the aftermath, new adventurer and mercenary companies took to the stars.",
+          "tales": [],
+          "chips": [
+            "The Pilgrims of Dust",
+            "The Pious Wanderers",
+            "The Winter Mercenaries",
+            "Harvest’s Scythe"
+          ],
+          "photo": "",
+          "image": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Act III: The Trials of the Lesser Gods",
+      "intro": "What comes next.",
+      "entries": [
+        {
+          "label": "Episode 6, coming",
+          "title": "Children of a Drowned God",
+          "status": "coming",
+          "body": "Aqua Moriana, the Darkest Deep: a sea without end in perpetual night. It was home to the Shrine of Nereus, the old man of the sea, until the cult of Pelagia summoned a leviathan that swallowed the dying star above. Now the Cleansing Wake and the Drowned fight over what remains, while the Augmented and the Watchers in the Dark circle.",
+          "tales": [],
+          "chips": [
+            "The Rig",
+            "The Abyss",
+            "The Silent Bay",
+            "The Vermillion Wake",
+            "The Lighthouse"
+          ],
+          "photo": "p_drowned",
+          "image": "",
+          "caption": "Children of a drowned god?"
+        },
+        {
+          "label": "Beyond",
+          "title": "Uncharted worlds",
+          "status": "coming",
+          "body": "Aegis and its Array. Decima’s Gamble. Ferris Mons. Himmelreich. Hypnum. Hells Fall. Heck and the Scatter. Mortis and the Gate. Onen Svět. Viridia, the fungal city. Vulkan and the Forge. And two places spoken of in whispers: the Gordian Way, the tunnels without end, and the Broken Spirit, a lost pilgrim ship.",
+          "tales": [],
+          "chips": [],
+          "photo": "",
+          "image": "",
+          "caption": ""
+        }
+      ]
+    },
+    {
+      "title": "Side tales",
+      "intro": "",
+      "entries": [
+        {
+          "label": "One-shot",
+          "title": "Holt: The Darkling Woods",
+          "status": "aside",
+          "body": "A pure fantasy tale. Vanessa Coracle, last acolyte of the sisterhood of Aquis, Drokki Flint, and Therry Speith, a road captain from Harvest, set out from the White Horse Inn to find Black Ron, missing from the mining camp. They found wyrdstones that changed whoever touched them: Therry into a man-boar, and Vanessa into a fishpond. The last fragment, pulled from a small dragon, turned it back into Black Ron.",
+          "tales": [],
+          "chips": [],
+          "photo": "",
+          "image": "",
+          "caption": ""
+        }
+      ]
+    }
+  ],
+  "photos": [
+    {
+      "photo": "t4",
+      "image": "",
+      "caption": "The Traveller."
+    },
+    {
+      "photo": "t1",
+      "image": "",
+      "caption": "A mystic raises a staff before the great sphere."
+    },
+    {
+      "photo": "t2",
+      "image": "",
+      "caption": "The tower and the sphere, with a sniper on watch."
+    },
+    {
+      "photo": "t3",
+      "image": "",
+      "caption": "An officer and his blade-armed escort beside the great wheel."
+    },
+    {
+      "photo": "t5",
+      "image": "",
+      "caption": "Strangers meet on the gantry."
+    },
+    {
+      "photo": "t6",
+      "image": "",
+      "caption": "The Traveller and his companions."
+    },
+    {
+      "photo": "t7",
+      "image": "",
+      "caption": "Aboard the Blasphemous Voyager."
+    }
+  ]
+}

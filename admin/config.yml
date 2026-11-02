@@ -1,0 +1,67 @@
+# Decap CMS settings for The Travellers' Companion.
+# Change the repo line below to your own GitHub username and repository name.
+backend:
+  name: github
+  repo: YOUR-GITHUB-USERNAME/the-traveller
+  branch: main
+
+site_url: https://traveller.cupboardofshame.com
+display_url: https://traveller.cupboardofshame.com
+logo_url: /icon-192.png
+
+media_folder: images/uploads
+public_folder: /images/uploads
+
+collections:
+  - name: lore
+    label: Lore
+    editor:
+      preview: false
+    files:
+      - name: story
+        label: The story so far
+        file: lore/story.json
+        fields:
+          - label: Acts
+            name: acts
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - { label: Title, name: title, widget: string }
+              - { label: Introduction, name: intro, widget: text, required: false }
+              - label: Episodes and tales
+                name: entries
+                widget: list
+                summary: "{{fields.label}}: {{fields.title}}"
+                fields:
+                  - { label: "Label (for example: Episode 7)", name: label, widget: string, required: false }
+                  - { label: Title, name: title, widget: string }
+                  - label: Status
+                    name: status
+                    widget: select
+                    default: told
+                    options:
+                      - { label: Told, value: told }
+                      - { label: Coming soon, value: coming }
+                      - { label: Side tale, value: aside }
+                  - { label: Story, name: body, widget: markdown, required: false, buttons: [bold, italic], editor_components: [], modes: [rich_text] }
+                  - { label: Photo, name: image, widget: image, required: false }
+                  - { label: Photo caption, name: caption, widget: string, required: false }
+                  - { label: "Built-in photo (leave as it is)", name: photo, widget: string, required: false }
+                  - label: Tales and quotes
+                    name: tales
+                    widget: list
+                    required: false
+                    summary: "{{fields.who}}"
+                    fields:
+                      - { label: "Who (optional)", name: who, widget: string, required: false }
+                      - { label: Text, name: text, widget: text }
+                  - { label: "Tags (people and places)", name: chips, widget: list, required: false }
+          - label: From the table (photos)
+            name: photos
+            widget: list
+            summary: "{{fields.caption}}"
+            fields:
+              - { label: Photo, name: image, widget: image, required: false }
+              - { label: Caption, name: caption, widget: string, required: false }
+              - { label: "Built-in photo (leave as it is)", name: photo, widget: string, required: false }

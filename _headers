@@ -1,0 +1,13 @@
+# Netlify: always check for the newest version of the app and lore
+/
+  Cache-Control: no-cache
+/index.html
+  Cache-Control: no-cache
+/sw.js
+  Cache-Control: no-cache
+/lore/*
+  Cache-Control: no-cache
+/admin/*
+  Cache-Control: no-cache
+/manifest.webmanifest
+  Content-Type: application/manifest+json
